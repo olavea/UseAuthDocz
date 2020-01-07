@@ -14,7 +14,9 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "docz": "^2.2.0",
     "gatsby": "^2.18.12",
+    "gatsby-theme-docz": "^2.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
